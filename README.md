@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bleez420
-- 👀 I’m interested in cryptography/automation
-- 🌱 I’m currently learning python
+- 👀 I’m interested in security, cryptography, automation, cloud infrastructure.
+- 🌱 I’m currently learning python, react, nodejs, SQL, IBM Cloud kubernetes.
 - 💞️ I’m looking to collaborate on mining and tokenomics
 - 📫 How to reach me blokheaddex@gmail.com
 
